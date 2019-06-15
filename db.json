@@ -1,32 +1,28 @@
 {
   "features": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "new-menu-bar-item",
+      "status": false,
+      "branch": "feature/126-ip-new-menu-bar-item",
+      "id": "6002ffa7-62fd-4a5d-a4b5-60163b82f8fb"
     },
-      {
-      "id": 1,
-      "title": "hello"
+    {
+      "name": "new-title",
+      "status": false,
+      "branch": "feature/126-ip-new-title",
+      "id": "c5b46947-6f33-4f40-a5b6-20405acbfaec"
     },
-      {
-      "id": 1,
-      "title": "hello"
+    {
+      "name": "modifying-signup-process",
+      "status": false,
+      "branch": "feature/126-ip-modifying-signin-process",
+      "id": "63d54c40-952b-42e0-8cbe-8514f6b38975"
     },
-      {
-      "id": 1,
-      "title": "hello"
-    },
-      {
-      "id": 1,
-      "title": "hello"
-    },
-      {
-      "id": 1,
-      "title": "hello"
-    },
-      {
-      "id": 1,
-      "title": "hello"
+    {
+      "name": "show-new-feature",
+      "status": false,
+      "branch": "feature/126-ip-show-new-feature",
+      "id": "39ddc4e0-2df9-4efd-8005-504fc2ee9b47"
     }
   ]
 }
