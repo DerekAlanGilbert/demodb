@@ -1,4 +1,6 @@
 {
-  "title": "Hey Connor API",
-  "msg": "Hey connor"
+  "things":[
+    "title": "Hey Connor API",
+    "msg": "Hey connor"
+  ]
 }
